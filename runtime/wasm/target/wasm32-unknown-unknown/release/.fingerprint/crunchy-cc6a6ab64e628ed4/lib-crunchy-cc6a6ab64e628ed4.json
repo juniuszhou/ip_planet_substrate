@@ -1,0 +1,1 @@
+{"rustc":6122348974508804580,"features":"[\"default\", \"limit_128\"]","target":3412535706088425016,"profile":10515832472908933917,"path":6048691515318875827,"deps":[[1410722714373304982,"build_script_build",false,14546427964890886835]],"local":[{"Precalculated":"0.2.1"}],"rustflags":["-C","link-arg=--export-table"],"metadata":5553159513701433177}
